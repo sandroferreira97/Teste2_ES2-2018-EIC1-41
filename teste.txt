@@ -1,2 +1,6 @@
 ola
+<<<<<<< HEAD
 adeus duarte
+=======
+
+>>>>>>> 66e3abf5928678d5b595bc0f1440721f0c2f0449
